@@ -67,3 +67,20 @@
 
 
 </img>
+
+
+
+No GitHub, o bloco de código acima será renderizado com formatação adequada para Python, destacando a sintaxe corretamente.
+
+### Resultado Final no README.md:
+
+```markdown
+<p align="center">
+  <img src="images/imagem1.png" width="400" />
+  <img src="images/imagem2.png" width="400" /> 
+</p>
+
+## Exemplo de Código - Hello World em Python
+
+```python
+print("Hello, World!")
