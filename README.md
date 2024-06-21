@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-06-20 at 22 47 14 (1)](https://github.com/llucasOld/llucasOld/assets/146960605/5c82f24e-06bc-41ab-9fab-1f288f58ff25)
 
 
 <img align="left" widht="360px" height="420px" src="https://github.com/llucasOld/llucasOld/assets/146960605/7bfbc554-ab25-4c9b-a274-d27b22e5241f">
